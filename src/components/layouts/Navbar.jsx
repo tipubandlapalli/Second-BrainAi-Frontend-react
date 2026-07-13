@@ -1,4 +1,4 @@
-import logo from "../assets/logo.png";
+import logo from "../../assets/logo.png";
 import { Link } from "react-router-dom";
 import Sidebar from "./components/Sidebar";
 import ThemeToggle from "../ui/ThemeToggle";

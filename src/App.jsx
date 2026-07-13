@@ -1,10 +1,10 @@
 import { Routes, Route } from "react-router-dom";
 
-import Error from "./pages/Error";
-import Product from "./pages/Product";
-import Landing from "./pages/Landing";
-import AboutUs from "./pages/AboutUs";
-import Authentication from "./pages/Authentication";
+import Error from "./components/pages/Error";
+import Product from "./components/pages/Product";
+import Landing from "./components/pages/Landing";
+import AboutUs from "./components/pages/AboutUs";
+import Authentication from "./components/pages/Authentication";
 
 const App = () => {
   return (
